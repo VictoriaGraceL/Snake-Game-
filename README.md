@@ -46,7 +46,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/VictoriaGraceL/Snake-Game-
 Open the project in your IDE or navigate to the project folder in terminal.
 
 Compile the project:
